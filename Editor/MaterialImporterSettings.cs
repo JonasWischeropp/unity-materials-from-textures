@@ -10,7 +10,7 @@ namespace JonasWischeropp.Unity.EditorTools.Import {
     internal class MaterialImporterSettings : ScriptableSingleton<MaterialImporterSettings> {
         [SerializeField]    
         public List<PropertyMapping> Mappings = new () {
-            new PropertyMapping("albedo", "diffuse|diff|albedo|(base)?.?color"),
+            new PropertyMapping("albedo|base map", "diffuse|diff|albedo|(base)?.?color"),
             new PropertyMapping("metallic", "metallic|gloss"),
             new PropertyMapping("normal", "normal(_gl)?|bump"),
             new PropertyMapping("occlusion", "(ambient)?.?occlusion|ao"),
