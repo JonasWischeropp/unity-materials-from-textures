@@ -2,7 +2,7 @@
 This small editor tool makes it simple to create materials from folders of textures.  
 The tool assumes that one folder contains all the textures for one material.
 
-Custom rules can be defined to match file names to shader properties using [regular expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) (not case-sensitive).
+Custom rules can be defined to match file names and shader properties using [regular expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) (not case-sensitive).
 
 <!-- TODO insert gif -->
 
