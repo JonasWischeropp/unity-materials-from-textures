@@ -4,7 +4,9 @@ The tool assumes that one folder contains all the textures for one material.
 
 Custom rules can be defined to match file names and shader properties using [regular expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) (not case-sensitive).
 
-<!-- TODO insert gif -->
+<p align="center">
+<img src="demo.gif", alt="Demonstration">
+</p>
 
 ## How to use
 1. Select the folders that should be converted into materials
