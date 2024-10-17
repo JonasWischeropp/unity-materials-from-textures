@@ -49,3 +49,4 @@ A specific [release](https://github.com/JonasWischeropp/unity-materials-from-tex
 ## Additional information
 - The settings file can be found under `<Project Root>/ProjectSettings/Packages/wischeropp.jonas.materials-from-textures/Settings.asset`
 - `Shader Property Name Regex` matches with the description name (e.g. `Albedo`) not the name used in the shader (e.g. `_MainTex`)
+- due to the use of `MultiColumnListView` Unity 2022.1 or higher is required 
