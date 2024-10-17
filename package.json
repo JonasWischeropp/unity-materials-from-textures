@@ -1,0 +1,12 @@
+{
+  "name": "wischeropp.jonas.materials-from-textures",
+  "version": "1.0.0",
+  "displayName": "Materials from Textures",
+  "description": "Editor tool to automatically create materials from folders of textures.",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "keywords": [],
+  "author": {
+    "name": "Jonas Wischeropp"
+  }
+}
