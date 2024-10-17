@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 
 namespace JonasWischeropp.Unity.EditorTools.Import {
-    [FilePath("ProjectSettings/Packages/JonasWischeropp.Unity.EditorTools.Import/TexturesToMaterialSettings.asset", FilePathAttribute.Location.ProjectFolder)]
+    [FilePath("ProjectSettings/Packages/wischeropp.jonas.materials-from-textures/Settings.asset", FilePathAttribute.Location.ProjectFolder)]
     internal class MaterialImporterSettings : ScriptableSingleton<MaterialImporterSettings> {
         [SerializeField]    
         public List<PropertyMapping> Mappings = new () {
