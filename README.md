@@ -18,7 +18,7 @@ Custom rules can be defined to match file names and shader properties using [reg
 Installation using the Package Manager:
 1. Click on the `+` in the `Package Manager` window
 2. Chose `Add package from git URL...`
-3. Insert the following URL `https://github.com/JonasWischeropp/unity-materials-from-textures#1.0.0`  
+3. Insert the following URL `https://github.com/JonasWischeropp/unity-materials-from-textures.git#1.0.0`  
 A specific [release](https://github.com/JonasWischeropp/unity-materials-from-textures/releases) version can be specified after `#`.
 4. Press the `Add`-Button
 
