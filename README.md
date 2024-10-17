@@ -7,8 +7,8 @@ Custom rules can be defined to match file names and shader properties using [reg
 <!-- TODO insert gif -->
 
 ## How to use
-1. Select the folders that should be converted to a material
-2. Right click on the selection
+1. Select the folders that should be converted into materials
+2. Right-click on the selection
 3. Click `Create > Material(s) from Textures`
 4. Specify the shader
 5. If required adjust settings
