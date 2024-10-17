@@ -12,7 +12,7 @@ Custom rules can be defined to match file names to shader properties using [regu
 3. Click `Create > Material(s) from Textures`
 4. Specify the shader
 5. If required adjust settings
-6. Click `Click create Material(s)`
+6. Click `Create Material(s)`
 
 ## Setup
 Installation using the Package Manager:
