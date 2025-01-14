@@ -1,5 +1,5 @@
 # Materials from Textures
-This small editor tool makes it simple to create materials from folders of textures.  
+This small editor tool makes it simple to create materials from folders of textures.
 The tool assumes that one folder contains all the textures for one material.
 
 Custom rules can be defined to match file names and shader properties using [regular expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) (not case-sensitive).
@@ -20,8 +20,8 @@ Custom rules can be defined to match file names and shader properties using [reg
 Installation using the Package Manager:
 1. Click on the `+` in the `Package Manager` window
 2. Chose `Add package from git URL...`
-3. Insert the following URL `https://github.com/JonasWischeropp/unity-materials-from-textures.git`  
-A specific [release](https://github.com/JonasWischeropp/unity-materials-from-textures/releases) version can be specified by appending `#<version>` (e.g. `...xtures.git#1.0.1`).
+3. Insert the following URL `https://github.com/JonasWischeropp/unity-materials-from-textures.git`
+A specific [release](https://github.com/JonasWischeropp/unity-materials-from-textures/releases) version can be specified by appending `#<version>` (e.g. `...xtures.git#1.0.2`).
 4. Press the `Add`-Button
 
 ## Example folder structure
@@ -51,4 +51,4 @@ A specific [release](https://github.com/JonasWischeropp/unity-materials-from-tex
 ## Additional information
 - The settings file can be found under `<Project Root>/ProjectSettings/Packages/wischeropp.jonas.materials-from-textures/Settings.asset`
 - `Shader Property Name Regex` matches with the description name (e.g. `Albedo`) not the name used in the shader (e.g. `_MainTex`)
-- Due to the use of `MultiColumnListView` Unity 2022.1 or higher is required 
+- Due to the use of `MultiColumnListView` Unity 2022.1 or higher is required
